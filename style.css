@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p,
+ul,
+ol {
+    text-align: left;
+}
+
+h1,
+h2 {
+    background-color: gold;
+    color: whitesmoke;
+}
+
+img {
+    width: 80%;
+    height: auto;
+}
